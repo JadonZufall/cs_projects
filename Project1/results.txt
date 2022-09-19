@@ -1,0 +1,6 @@
+Name: Jadon Zufall
+Date: 09/08/22
+university: la universidad
+school: el colegio, la escuela
+park: el parque
+Score: 2 out of 3 correct
